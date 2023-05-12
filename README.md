@@ -1,3 +1,8 @@
+# VERSION
+## index.py
+Auto view url to link.txt
+## index_v2.py
+Auto view url to link Blogger and setup max item (500)
 # DEMO
 
 
